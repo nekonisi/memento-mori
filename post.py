@@ -4,6 +4,8 @@ import requests
 import json
 import const
 
+url = 'https://api.line.me/v2/bot/message/broadcast'
+
 # headerを定義
 headers = {
         'Authorization': 'Bearer ' + const.TOKEN,
