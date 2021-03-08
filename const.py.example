@@ -1,2 +1,3 @@
 #!/usr/bin/env python
 TOKEN = 'YOUR ACCESS TOKEN'
+FREQUENCY = 1200
